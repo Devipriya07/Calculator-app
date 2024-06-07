@@ -64,7 +64,7 @@ function clearInput(){
         <button type="button" onClick={()=>handleClick('2')} value="2">2</button>
         <button type="button" onClick={()=>handleClick('3')} value="3">3</button>
         <button type="button" onClick={()=>handleClick('*')} value="*">*</button>
-        <button type="button" onClick={clearInput} value="c">c</button>
+        <button type="button" onClick={clearInput} value="C">C</button>
         <button type="button" onClick={()=>handleClick('0')} value="0">0</button>
         <button type="button" onClick={calculateResult} value="=">=</button>
         <button type="button" onClick={()=>handleClick('/')} value="/">/</button>
