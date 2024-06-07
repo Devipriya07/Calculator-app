@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0
+}
+button{
+    border:"1px solid black";
+    border-radius:5px;
+}
+
+/* body {
+  /* either the body tag is applied with flex or make the 
+     container 100vh height with flex box to occupy the full height */
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* height: 100vh; */
+ /*  }  */
