@@ -35,12 +35,12 @@ function clearInput(){
                                  flexDirection:"column",
                                  justifyContent:"center",
                                  alignItems:'center',
-                                 backgroundImage:"linear-Gradient(to right,blue,yellow)",
+                                 backgroundImage:"linear-Gradient(to right,lightblue,yellow)",
                                  height:"50vh",
                                  width:"30vw",
                                  boxShadow:"5px 5px 5px",
                                  border:"none",
-                                 borderRadius:"2px"}}>
+                                 borderRadius:"7px"}}>
                                  
       <h1>React Calculator</h1>
       <input type="text" id="display" value={input} readOnly/>
